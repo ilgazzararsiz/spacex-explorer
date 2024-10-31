@@ -1,0 +1,11 @@
+.launch-detail {
+    &__back-button {
+        padding-bottom: 20px;
+    }
+
+    &__title-container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
